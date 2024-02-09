@@ -1,6 +1,0 @@
-.env
-.idea
-/generated
-/cov_profile
-cov_profile.lcov
-/logs/*
